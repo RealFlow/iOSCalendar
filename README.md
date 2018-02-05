@@ -1,11 +1,12 @@
 # iOSCalendar
-iOS Native Calendar
+iOS Native Calendar<br/>
 
-This app is implements an Objective-C calendar based entirely on UICollectionViews.
-This is a proof of concept. Code may vary to improve it.
+This app is implements an Objective-C calendar based entirely on UICollectionViews.<br/>
+This is a proof of concept. Code may vary to improve it.<br/>
 
-Preview:
+Preview:<br/>
 <img src="https://github.com/RealFlow/iOSCalendar/blob/master/iOSCalendar/iOSCalendar/GIF/iosCalendar.gif" width="400" />
+
 
 - Features
 - [x] Calendar
